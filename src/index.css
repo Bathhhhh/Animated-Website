@@ -18,17 +18,7 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: "robert-medium";
-  src: url("/fonts/robert-medium.woff2") format("woff2");
-  font-display: swap;
-}
 
-@font-face {
-  font-family: "robert-regular";
-  src: url("/fonts/robert-regular.woff2") format("woff2");
-  font-display: swap;
-}
 
 @theme {
   --font-zentry: "zentry", sans-serif;
